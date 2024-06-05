@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am Lina and I am currently studying computer science in University of Toronto
  
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FywOo02/FywOo02/blob/main/c93a360f-1e7b-4ad7-8d79-808c41c81a1b.webp" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
@@ -20,7 +20,11 @@ Welcome to my Github page! I am Lina and I am currently studying computer scienc
 - Reliable LLM
 - AI Robustness & safety
 
-
+#### 🌻 organisations I currently work with 🌻
+- SocialAI Lab, University of Toronto
+- CoNSens Lab, University of Toronto
+- Urban Data Centre, University of Toronto School of Cities
+  
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
@@ -37,5 +41,6 @@ Welcome to my Github page! I am Lina and I am currently studying computer scienc
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face.svg"></code>
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gemini.svg"></code>
 </p>
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
-If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
+Here is the corrected version of the sentence:
+
+If you want to know more, please refer to my [website](https://fywoo02.github.io/shenzhezhu.github.io).
