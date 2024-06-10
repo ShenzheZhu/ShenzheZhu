@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am Lina and I am currently studying computer science in University of Toronto
  
-<img align="right" alt="img" src="https://github.com/FywOo02/FywOo02/blob/main/c93a360f-1e7b-4ad7-8d79-808c41c81a1b.webp" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FywOo02/FywOo02/blob/main/claude-monet_junge-madchen-im-boot_1887_web-_c_-the-national-museum-of-western-art--tokio--sammlung-matsukata.1200x0.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
