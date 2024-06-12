@@ -41,4 +41,4 @@ Welcome to my Github page! I am Lina and I am currently studying computer scienc
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face.svg"></code>
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gemini.svg"></code>
 </p>
-If you want to know more, please refer to my [website](https://fywoo02.github.io/shenzhezhu.github.io).
+If you want to know more, please refer to my [website](https://shenzhezhu.github.io).
