@@ -15,10 +15,10 @@ Welcome to my Github page! I am Lina and I am currently studying computer scienc
 - work out
  
 #### ⚡ My current research interest ⚡ : 
-- Deep Learning Interpretability
-- Explainable AI
-- Reliable LLM
-- AI Robustness & safety
+- Explainable AI (XAI)
+- LLM Intepretability & Alignment
+- Neural-symbolic System
+- Knowledge Representation
 
 #### 🌻 organisations I currently work with 🌻
 - SocialAI Lab, University of Toronto
