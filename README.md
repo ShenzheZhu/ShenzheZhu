@@ -9,7 +9,7 @@ Welcome to my Github page! I am Lina and I am currently studying computer scienc
 <img align="right" alt="img" src="https://github.com/FywOo02/FywOo02/blob/main/claude-monet_junge-madchen-im-boot_1887_web-_c_-the-national-museum-of-western-art--tokio--sammlung-matsukata.1200x0.jpg" width="50%" height="auto" />
 
  
-####My current research interest : 
+### My current research interest : 
 - Explainable AI (XAI)
 - LLM Intepretability & Alignment
 - Neural-symbolic System
