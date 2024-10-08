@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am Cho and I am currently studying computer science in University of Toronto
  
-<img align="right" alt="img" src="https://github.com/FywOo02/FywOo02/blob/main/claude-monet_junge-madchen-im-boot_1887_web-_c_-the-national-museum-of-western-art--tokio--sammlung-matsukata.1200x0.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/ShenzheZhu/ShenzheZhu/blob/main/20231125_CUP002.jpg" width="50%" height="auto" />
 
  
 ### My current research interest : 
