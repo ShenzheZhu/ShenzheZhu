@@ -1,4 +1,4 @@
-### Hi there 👋 This is Shenzhe(Cho)Zhu ！
+### This is Shenzhe(Cho)Zhu
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FywOo02)
