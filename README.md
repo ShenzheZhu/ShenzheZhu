@@ -10,7 +10,7 @@ Welcome to my Github page. I am Cho and computer science undergraduate student i
 
  
 ### Research Interest : 
-- Trustworthy AI / XAI
+- Trustworthy AI
 - LLM Intepretability
 - MLLM
 
