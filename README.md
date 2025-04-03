@@ -11,7 +11,7 @@ Welcome to my Github page. I am Cho and computer science undergraduate student i
  
 ### Research Interest : 
 - Trustworthy AI
-- LLM Safety
+- LLM Security
 - MLLM
 
 For more info, please refer to my [website](https://shenzhezhu.github.io).
