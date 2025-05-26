@@ -6,9 +6,6 @@
  
 Welcome to my Github page. I am Cho and computer science undergraduate student in University of Toronto
  
-<img align="right" alt="img" src="https://github.com/ShenzheZhu/ShenzheZhu/blob/main/20231125_CUP002.jpg" width="50%" height="auto" />
-
- 
 ### Research Interest : 
 - Trustworthy AI
 - Agent
